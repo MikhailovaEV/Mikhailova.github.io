@@ -1,0 +1,70 @@
+.site-header{
+   box-sizing: border-box;
+   max-width: 1219px;
+   max-height: 56px;
+   margin-left: auto;
+   margin-right: auto;
+   padding-left: 55px;
+   padding-right: 55px;
+    background-color:#343A40
+}
+.py-2{
+    color: rgb(255, 255, 255);
+    text-align:left;
+}
+
+.jumbotron{box-sizing: border-box;
+   max-width: 1219px;
+   max-height: 342px;
+  margin-left: auto;
+   margin-right: auto;
+   padding-left: 55px;
+   padding-right: 55px;}
+
+.display-4{
+    color:black;
+    font-family: Roboto, sans-serif;
+    font-size: 72px;
+    font-weight:light;
+}
+
+.lead{
+    color:black;
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    max-width: 635px;
+   max-height: 52px;
+}
+.card-title{
+    font-size: 20px;
+    font-weight: regular;
+}
+
+.card mb-4 shadow-sm{
+    box-sizing: border-box;
+   max-width: 350px;
+   max-height: 165px;
+}
+
+table, th, td{
+    border: 1px solid rgb(149, 156, 223);
+    margin-left: auto;
+   margin-right: auto;
+    }
+
+.site-foot{
+    box-sizing: border-box;
+    max-width: 1219px;
+    max-height: 51px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 55px;
+    padding-right: 55px;
+     background-color:#F5F5F5
+ }
+ .py-3{
+     color: #6C757D;
+     text-align:left; 
+     font-size: 16px; 
+}
