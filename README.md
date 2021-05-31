@@ -2,5 +2,5 @@
 
 Использование сетки и компонентов Bootstrap, для создания адаптивной страницы Научного личного кабинета - выдуманного сервиса для размещения научных работ.
 
-макет в Figma https://www.figma.com/file/nDXdlmr1kCVnWEcnPWtfLg/Задание-на-Бутстрап?node-id=1%3A2
+Макет в Figma https://www.figma.com/file/nDXdlmr1kCVnWEcnPWtfLg/Задание-на-Бутстрап?node-id=1%3A2
 
